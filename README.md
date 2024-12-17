@@ -1,12 +1,7 @@
-<style>
-  body {
-    background: linear-gradient(45deg, #000000, #434343, #666666, #999999, #cccccc);
-    color: white;
-  }
-</style>
+
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm JGZHAN, a passionate developer who loves to explore new technologies and build amazing projects.
+# 一个躺又躺不平，跑又跑不赢的码喽🐒
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JGZHAN&color=brightgreen)
 
@@ -17,14 +12,12 @@ Welcome to my GitHub profile! I'm JGZHAN, a passionate developer who loves to ex
 
 ### GitHub Stats
 
-[//]: # (这个模块正在努力,尽力填满数据🤯)
-
-![JGZHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGZHAN&show_icons=true&theme=radical)
+## 我裂开了，真的急需星星✨🤯
+![JGZHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGZHAN&show_icons=true&theme=dark)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGZHAN&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGZHAN&layout=compact&theme=dark)
 
 ### Recent Projects
 
