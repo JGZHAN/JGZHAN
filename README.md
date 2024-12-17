@@ -1,4 +1,9 @@
-
+<style>
+  body {
+    background: linear-gradient(45deg, #000000, #434343, #666666, #999999, #cccccc);
+    color: white;
+  }
+</style>
 ## Hi there 👋
 
 Welcome to my GitHub profile! I'm JGZHAN, a passionate developer who loves to explore new technologies and build amazing projects.
@@ -23,7 +28,6 @@ Welcome to my GitHub profile! I'm JGZHAN, a passionate developer who loves to ex
 
 ### Recent Projects
 
-- [Project 1](https://github.com/JGZHAN/project1): A cool project that does amazing things.
-- [Project 2](https://github.com/JGZHAN/project2): Another awesome project with great features.
+- [download](https://github.com/JGZHAN/download): 多线程下载网络文件; RandomAccessFile指定位置写入; 断点续传（暂停\被迫中断 后 继续下载);
 
 Thanks for visiting my profile! Have a great day! 😊
